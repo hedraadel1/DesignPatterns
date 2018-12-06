@@ -1,0 +1,8 @@
+c:\users\newidea\documents\visual studio 2015\Projects\TheRoad\TheRoad\bin\Debug\TheRoad.exe.config
+c:\users\newidea\documents\visual studio 2015\Projects\TheRoad\TheRoad\bin\Debug\TheRoad.exe
+c:\users\newidea\documents\visual studio 2015\Projects\TheRoad\TheRoad\bin\Debug\TheRoad.pdb
+c:\users\newidea\documents\visual studio 2015\Projects\TheRoad\TheRoad\bin\Debug\TheRoad.PrototypeDesignPattern.dll
+c:\users\newidea\documents\visual studio 2015\Projects\TheRoad\TheRoad\bin\Debug\TheRoad.PrototypeDesignPattern.pdb
+c:\users\newidea\documents\visual studio 2015\Projects\TheRoad\TheRoad\obj\Debug\TheRoad.Client.csprojResolveAssemblyReference.cache
+c:\users\newidea\documents\visual studio 2015\Projects\TheRoad\TheRoad\obj\Debug\TheRoad.exe
+c:\users\newidea\documents\visual studio 2015\Projects\TheRoad\TheRoad\obj\Debug\TheRoad.pdb

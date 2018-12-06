@@ -1,0 +1,5 @@
+c:\Users\NewIDea\documents\visual studio 2015\Projects\TheRoad\TheRoad.PrototypeDesignPattern\bin\Debug\TheRoad.PrototypeDesignPattern.dll
+c:\Users\NewIDea\documents\visual studio 2015\Projects\TheRoad\TheRoad.PrototypeDesignPattern\bin\Debug\TheRoad.PrototypeDesignPattern.pdb
+c:\Users\NewIDea\documents\visual studio 2015\Projects\TheRoad\TheRoad.PrototypeDesignPattern\obj\Debug\TheRoad.PrototypeDesignPattern.csprojResolveAssemblyReference.cache
+c:\Users\NewIDea\documents\visual studio 2015\Projects\TheRoad\TheRoad.PrototypeDesignPattern\obj\Debug\TheRoad.PrototypeDesignPattern.dll
+c:\Users\NewIDea\documents\visual studio 2015\Projects\TheRoad\TheRoad.PrototypeDesignPattern\obj\Debug\TheRoad.PrototypeDesignPattern.pdb
